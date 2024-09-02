@@ -4,5 +4,5 @@ let b=15;
 let c= calc.cong(a,b);
 console.log('result: '+c);
 
-<h1> nha dep trai<h1/>
+<h1> thanh nha quach<h1/>
   
